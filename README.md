@@ -4,5 +4,4 @@ This is a simple web application that allows users to create, read, update, and 
 
 I've already deployed the application using vercel.
 You can access it via this link:
-https://frontend-crud-g789yo6nu-aashra-pradhans-projects.vercel.app/
-
+https://frontend-crud-omega.vercel.app/
